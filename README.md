@@ -13,7 +13,7 @@ This project explores how Tiktok engagement metrics impact sales performance for
 
 ## Key Insights
 - **Sales and revenue increased significanly** after the brand became active on Tiktok (starting October 2024)
-- **Views, likes, comments, and shares"" show strong correlation with sales, while **engagement rate** has a week relationship
+- **Views, likes, comments, and shares** show strong correlation with sales, while **engagement rate** has a week relationship
 - **Cleanser** remains the top performing product with sales growth reinforced by Tiktok campaigns
 - **Sales per view = 2.63%**, showing strong content-to-purchase conversion
 
