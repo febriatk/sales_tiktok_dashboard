@@ -40,4 +40,4 @@ This project explores how Tiktok engagement metrics impact sales performance for
 
 ## Project Files
 - [Interactive dashboard (Power BI)](Sales_Tiktok_Engagement_Dashboard.pbix)
-- [Project presentation slide](Tiktok%20Engagement%20%26%20Sales%20Growth.pdf)
+- [Project presentation slide](TiktokEngagement&SalesGrowth.pdf)
